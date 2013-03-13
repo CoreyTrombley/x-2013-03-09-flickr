@@ -1,9 +1,10 @@
 source 'https://rubygems.org'
 
 gem 'rails'
-gem 'sqlite3'
+gem 'pg'
 gem 'jquery-rails'
 gem 'haml'
+gem 'twilio-ruby'
 
 
 group :assets do
